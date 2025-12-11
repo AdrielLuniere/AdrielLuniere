@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ae81ff&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f03f88&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Adriel+Luniere;I'm+33+years+old;I+am+from+Belo+Horizonte,+MG;I+study+analysis+and+systems+development+at+Uniasselv;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f03f88&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Adriel+Luniere;I'm+35+years+old;I+am+from+Belo+Horizonte,+MG;I+study+analysis+and+systems+development+at+Uniasselv;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div  align="center" style="margin-bottom:100px">
 <img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielluniere&theme=radical" /> 
