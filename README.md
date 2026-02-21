@@ -58,12 +58,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrielLuniere&theme=radical" alt="Profile Summary" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrielLuniere&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="97%" src="https://github-profile-trophy.vercel.app?username=AdrielLuniere&theme=dracula&row=1&no-bg=true&column=7" alt="Trophies" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrielLuniere&theme=radical&v=20250220" alt="Profile Summary" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdrielLuniere&theme=radical&v=20250220" alt="Top Languages" />
 </div>
 
 ---
