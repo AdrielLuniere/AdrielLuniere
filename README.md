@@ -4,11 +4,11 @@
 
 <div align="center" style="margin-bottom: 30px;">
   <img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrielLuniere&theme=radical" /> 
-  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielLuniere&theme=radical" />
+  <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrielLuniere&theme=radical" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdrielLuniere&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=AdrielLuniere&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
   <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
   <br><p><b>Visitors Count</b></p>  
-  <p><img src="https://profile-counter.glitch.me/AdrielLuniere/count.svg" alt="Visitor Count" /></p> 
+  <p><img src="https://komarev.com/ghpvc/?username=AdrielLuniere&color=ae81ff&style=flat-square" alt="Visitor Count" /></p> 
   <br>
 </div>
 
