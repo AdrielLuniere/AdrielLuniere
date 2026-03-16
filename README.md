@@ -39,6 +39,7 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Oracle-dd0000?style=for-the-badge&logo=Oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-0c9dbf?style=for-the-badge&logo=Python&logoColor=white" />
     </td>
     <td valign="top" width="25%">
       <strong>Tools & OS</strong><br/>
