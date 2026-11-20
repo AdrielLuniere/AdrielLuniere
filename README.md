@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Adriel Luniere 👋</h1>
 
 <p align="center">
-  Full-stack developer in training · Belo Horizonte, Brazil
+  Full-stack developer · Belo Horizonte, Brazil
 </p>
 
 <p align="center">
